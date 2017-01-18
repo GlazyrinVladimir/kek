@@ -1,0 +1,11 @@
+login,password,e-mail
+2b96A149b6,,cbceecb@baabb.ru
+913309ABB3,,7ab5bb7@cccac.ru
+2300228192,,75cca5a@acaac.com
+569979a740,,1577ada@abbca.com
+A623527a4B,,511a571@caaba.ru
+3750844a17,,ece51cb@ababa.com
+8739b54424,,d1d51cb@aabba.com
+B18389a69B,,ccceee5@babbb.ru
+BaB2766443,,da515b1@bacaa.ru
+859772794a,,bbd515c@acccb.ru

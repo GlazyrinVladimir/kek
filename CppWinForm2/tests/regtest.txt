@@ -1,0 +1,4 @@
+login [0-9A-Ba-b{10}]
+password [a-bA-B{10}]
+e-mail [a  -e 175 {7}]@[{5}abc].ru/.com
+tolik [t{1}][l{1}][k{1}]

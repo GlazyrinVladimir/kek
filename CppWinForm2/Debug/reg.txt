@@ -1,0 +1,4 @@
+e-mail [a  -e 175 {7}]@[{5}abc].ru/.com
+telefon [0-9{11}]
+login [0-9A-Ba-b{10}]
+password [a-bA-B{10}]

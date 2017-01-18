@@ -1,0 +1,11 @@
+login,password,e-mail
+57868963A7,babbBBABba,dccead1@baaba.com
+3538bB4805,bAABaBAAaa,dcd5ce5@cabab.ru
+AB04725162,aaAbBbAAab,e1e177b@bcaac.ru
+3707984292,AaBAAaABbA,da7c5b1@bcccc.com
+4b8873b1a6,ABABBbBaab,bac5b1d@cabaa.com
+bAa8B67a31,ABBBBaAAbA,ad1db57@cbaaa.com
+3B65b18a42,AaaAAaABBa,5cbc1cc@acacc.ru
+277739A2aA,bABaaaaBAb,5b7b7a7@bcaba.com
+481b63645B,BaBaaBaaaA,b5d71c7@ccbcc.ru
+8460B5a7Bb,bbaAbaBAAB,ebbc1ce@bacac.ru

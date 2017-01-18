@@ -1,0 +1,11 @@
+login,password,e-mail
+932b916aB1,,e1abbc7@cabca.ru
+37Bb395A52,,5e7dc75@cacbc.com
+08a726a0A8,,ae7eb7b@ccacc.ru
+3492698473,,71e5dae@bbcaa.com
+80306a8463,,511a7da@ccbaa.com
+313332ab9b,,ce5da5a@abbab.ru
+99a88044A8,,5aea11d@aaabb.com
+bBaa843848,,b1cdd57@acbcc.com
+b326926342,,7bbb71b@cabab.com
+1A84032a00,,5abdda5@acaab.com

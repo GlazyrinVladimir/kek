@@ -1,0 +1,11 @@
+login,password,e-mail
+65b369a2AA,,bb1a575@aaacc.ru
+3b43BbbA89,,e7abcce@bacba.com
+410a56B06B,,b7ed15b@baccb.com
+A142151Aa6,,1e5a7e1@aacbc.com
+77b195178b,,da751ba@abbca.ru
+A990618AAB,,d75badb@aaaaa.com
+610Aa600ba,,cab5dbc@ccaca.com
+06Bbb62bA3,,1e1be17@acbab.ru
+422bbaB73a,,db57ac1@aabcc.com
+5a4306ba4A,,7a711b1@accac.com
